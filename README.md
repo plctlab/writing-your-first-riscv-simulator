@@ -3,3 +3,5 @@
 
 NICE指令集spike支持仓库：https://github.com/plctlab/plct-spike/tree/spike-courses
 
+snapshot机制spike支持仓库：https://github.com/plctlab/plct-spike/tree/plct-snapshot
+

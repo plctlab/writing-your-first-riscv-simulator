@@ -5,3 +5,4 @@ NICE指令集spike支持仓库：https://github.com/plctlab/plct-spike/tree/spik
 
 snapshot机制spike支持仓库：https://github.com/plctlab/plct-spike/tree/plct-snapshot
 
+块设备spike支持仓库：https://github.com/plctlab/plct-spike/tree/snapshot-develop

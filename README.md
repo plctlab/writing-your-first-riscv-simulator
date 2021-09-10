@@ -9,4 +9,8 @@ snapshot机制spike支持仓库：https://github.com/plctlab/plct-spike/tree/plc
 
 QEMU nuclei支持总仓库：https://github.com/plctlab/plct-qemu/tree/plct-nuclei-rebase
 
+QEMU ACT支持仓库：https://github.com/plctlab/plct-qemu/tree/riscv-arch-test
+
+ACT for Scalar crypto支持仓库： https://github.com/liweiwei90/riscv-arch-test/tree/k-extension
+
 按课程进度区分仓库：https://github.com/plctlab/plct-qemu/tree/plct-courses-dev （待更新）
